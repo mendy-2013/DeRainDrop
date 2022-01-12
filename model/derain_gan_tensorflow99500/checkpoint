@@ -1,0 +1,6 @@
+model_checkpoint_path: "derain_gan_2021-11-17-09-07-39.ckpt-100000"
+all_model_checkpoint_paths: "derain_gan_2021-11-17-09-07-39.ckpt-98000"
+all_model_checkpoint_paths: "derain_gan_2021-11-17-09-07-39.ckpt-98500"
+all_model_checkpoint_paths: "derain_gan_2021-11-17-09-07-39.ckpt-99000"
+all_model_checkpoint_paths: "derain_gan_2021-11-17-09-07-39.ckpt-99500"
+all_model_checkpoint_paths: "derain_gan_2021-11-17-09-07-39.ckpt-100000"
